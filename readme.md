@@ -155,7 +155,7 @@ claimName: mysql-pv-data
 ```
  
 I applied database.yaml.
-
+Now, it is connected to database.
 ![image](https://user-images.githubusercontent.com/79639310/236385889-c4a7f39d-176d-4f0f-bc64-ad0a93dc249c.png)
 
 

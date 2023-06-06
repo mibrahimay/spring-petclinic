@@ -16,6 +16,9 @@ And thoso two jar file are created.
 I set up docker desktop.
 ![image](https://user-images.githubusercontent.com/79639310/236385313-df6dec40-a543-4096-8c90-c6a61e580947.png)
 
+I run docker image with these commands.
+docker build -t my-maven-docker-project .
+docker run -p 8888:8888 my-maven-docker-project
 
 Pod is running .Now it is dockerized.
 ![image](https://user-images.githubusercontent.com/79639310/236385355-13abe3a9-6164-4914-9a71-7512537768dd.png)
